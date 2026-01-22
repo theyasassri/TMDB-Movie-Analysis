@@ -1,6 +1,6 @@
 # TMDB-Movie-Analysis
 My first EDA Project in data analysis by python and google colab. 
-An Exploratory Data analysis(EDA) investigating the factors that drive movie popularity. I analyzed 4000 movies to see if high rating crrelate with high popularity.
+An Exploratory Data analysis(EDA) investigating the factors that drive movie popularity. I analyzed 4000 movies to see if high rating correlate with high popularity.
 
 ### Key insights
 
